@@ -1,0 +1,15 @@
+.routine-action-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.routine-action-wrapper .action-button {
+  margin-right: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.routine-action-wrapper .action-button:last-child{
+  margin-right: 0;
+}

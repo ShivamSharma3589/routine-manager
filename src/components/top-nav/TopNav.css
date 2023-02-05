@@ -1,0 +1,38 @@
+.top-bar {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 999999;
+  max-width: 700px;
+  width: 100%;
+  background-color: #5D3891;
+  padding: 10px 10px;
+}
+
+.top-bar .left-area {
+  display: flex;
+  align-items: center;
+}
+
+.menu-button {
+  background-color: transparent;
+  color: #fff;
+  border: none;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  margin-right: 12px;
+}
+
+.menu-icon {
+  color: #fff;
+  font-size: 20px;
+}
+
+.app-name {
+  user-select: none;
+  color: #fff;
+}

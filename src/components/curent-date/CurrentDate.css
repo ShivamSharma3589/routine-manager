@@ -1,0 +1,24 @@
+.date-time-shower {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.date-shower {
+  font-weight: 500;
+}
+
+.date-shower .date {
+  font-size: 25px;
+}
+
+.date-shower .month {
+  font-size: 20px;
+}
+
+.date-shower .year {
+  font-size: 25px;
+}
+
+.time-shower {
+  font-weight: 500;
+}
